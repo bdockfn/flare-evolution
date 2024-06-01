@@ -5,38 +5,8 @@
 ASO-S/LST (Ly-alpha), также возможно дополнение другими необходимыми данными.
 
 
-![Демонстрация проекта](movie.gif)
 
 ## Видео-демонстрация
-Вот краткая видео-демонстрация нашего проекта:
+![Демонстрация проекта](movie.gif)
+![Демонстрация проекта](movie_20.gif)
 
-[![Смотрите видео][(https://img.youtube.com/vi/ID_видео/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_видео)](https://github.com/bdockfn/flare-evolution/blob/main/movie_20.mp4)
-
-
-<video width="600" controls>
-  <source src="https://github.com/bdockfn/flare-evolution/blob/main/movie_20.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Требования
-Перечень системных требований и зависимостей для работы проекта.
-
-- Python 3.8+
-- Flask 2.0.1
-- и т.д.
-
-## Установка
-Подробная инструкция по установке и настройке проекта.
-
-```bash
-# Клонируйте репозиторий
-git clone https://github.com/username/projectname.git
-
-# Перейдите в директорию проекта
-cd projectname
-
-# Установите зависимости
-pip install -r requirements.txt
-
-# Запустите проект
-python app.py

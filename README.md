@@ -11,6 +11,11 @@ ASO-S/LST (Ly-alpha), также возможно дополнение друг�
 [![Смотрите видео][(https://img.youtube.com/vi/ID_видео/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_видео)](https://github.com/bdockfn/flare-evolution/blob/main/movie_20.mp4)
 
 
+<video width="600" controls>
+  <source src="https://github.com/bdockfn/flare-evolution/blob/main/movie_20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Требования
 Перечень системных требований и зависимостей для работы проекта.
 
